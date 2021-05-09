@@ -1,0 +1,9 @@
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\bin\Debug\Spreadsheet.exe
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\bin\Debug\Spreadsheet.pdb
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.csprojAssemblyReference.cache
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.MainForm.resources
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.cache
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.exe
+D:\Facultate\Sem II\IP\Laboratoare\LaboratorIP10\Interfata\Spreadsheet\obj\Debug\Spreadsheet.pdb
